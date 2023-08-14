@@ -1,4 +1,3 @@
-
 # Data-Science
 
 This repository having the popular Python libraries Pandas, NumPy, Matplotlib and seaboron to perform data analysis on a various dataset. The dataset contains information about various data. The goal of this project is to explore the data and gain insights and make the predictions.
@@ -19,6 +18,7 @@ The project consists of several Jupyter Notebooks that cover different aspects o
 ```bash
   https://www.anaconda.com/products/individual
 ```
+
 - Once the download is complete, double-click on the installer file to launch the Anaconda installer.
 
 - Follow the instructions in the installer to complete the installation process. By default, Anaconda will be installed in the directory /anaconda on your system.
@@ -36,6 +36,7 @@ The project consists of several Jupyter Notebooks that cover different aspects o
 ```bash
   https://colab.research.google.com/
 ```
+
 ## Roadmap
 
 - Learn Numpy
@@ -43,6 +44,6 @@ The project consists of several Jupyter Notebooks that cover different aspects o
 - Learn Matplotlib and Seaboarn (Data Visualization Libraries)
 - Build Projects
 
-
 ## 🚀 About Me
-Hi, my name is Shantanu Dhaybar, and I am a junior Software Engineer with one year of experience in JavaScript, React JS, React Native, Data Science, and Machine Learning.
+
+Hi, my name is Pranita Bhoite, Enthusiastic and highly motivated recent graduate with a Bachelor's degree in EnTc.
